@@ -1,0 +1,2 @@
+# krabot
+Kraken trading bot
